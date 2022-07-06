@@ -2,4 +2,4 @@
 ***
 
 ### Screenshot
-![Image text](C:/Users/johan/Downloads/AppPuppy.png)
+![App Puppy](C:/Users/johan/Downloads/AppPuppy.png)
